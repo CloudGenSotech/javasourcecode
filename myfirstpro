@@ -13,8 +13,8 @@ printf("\n Enter b value :");
 scanf("%d",&b);
 c=a+b;
 printf("\n The sum of two values are %d",c);
-c=c-a;
-printf("The the b value is %d",c);
+c=c-a;  //modified in git hub server/remote/
+printf("The the b value is %d",c); //modidfied in github server /remote 
 getch();
 }
 
