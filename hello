@@ -13,6 +13,7 @@ sadg
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello this is second code
 
 
@@ -30,5 +31,7 @@ hi this is third commit
 
 bye
 
+=======
+>>>>>>> parent of e078369... second
 =======
 >>>>>>> parent of e078369... second
