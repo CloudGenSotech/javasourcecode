@@ -8,6 +8,6 @@ System.out.println("The One month intrest is "+omi);
 totalint=omi*t;
 System.out.println("The Total Intrest is "+totalint);
 totalamt=p+totalint;
-System.out.printtln("Your payable Amount is "+totalamt);
+System.out.println("Your payable Amount is "+totalamt);
 }
 }
